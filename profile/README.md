@@ -11,7 +11,7 @@ Check out the repositories below for relevant course material:
 
 - [Lecture slides](https://github.com/intro-to-data-science-26/lectures)
 - [Lab materials](https://github.com/intro-to-data-science-26/labs)
-- [Assignment schedule](https://github.com/intro-to-data-science-26/assignment-schedule)
+- [Assignment schedule](https://github.com/intro-to-data-science-26/assignments-schedule)
 
 
 ### IDS Tools for Data Science workshops
