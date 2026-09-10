@@ -11,8 +11,8 @@ Check out the repositories below for relevant course material:
 
 - [Lecture slides](https://github.com/intro-to-data-science-26/lectures)
 - [Lab materials](https://github.com/intro-to-data-science-26/labs)
+- [R bootcamp materials](https://github.com/linusha/R-bootcamp-summer-2026)
 - [Assignment schedule](https://github.com/intro-to-data-science-26/assignments-schedule)
-
 
 ### IDS Tools for Data Science workshops
 
